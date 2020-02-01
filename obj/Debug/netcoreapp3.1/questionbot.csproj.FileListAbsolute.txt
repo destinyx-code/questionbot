@@ -1,0 +1,3 @@
+C:\Users\17205\OneDrive\Desktop\questionbot\obj\Debug\netcoreapp3.1\questionbot.csprojAssemblyReference.cache
+C:\Users\17205\OneDrive\Desktop\questionbot\obj\Debug\netcoreapp3.1\questionbot.AssemblyInfoInputs.cache
+C:\Users\17205\OneDrive\Desktop\questionbot\obj\Debug\netcoreapp3.1\questionbot.AssemblyInfo.cs
